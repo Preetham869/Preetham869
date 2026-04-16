@@ -1,150 +1,105 @@
+<!-- 
+  ╔══════════════════════════════════════════════════╗
+  ║  PREETHAM KUMAR — THE OPERATIVE                  ║
+  ║  GitHub Profile README                           ║
+  ╚══════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     HEADER — CUSTOM SVG BANNER
-     ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══ HEADER BANNER ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8b0000,50:ff2a2a,100:ff6b35&height=300&section=header&text=PREETHAM%20KUMAR&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%94%EF%B8%8F%20Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Engineer%20%20%E2%80%A2%20%20Chess%20Strategist&descSize=16&descAlignY=58&descColor=ffcccc" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5,2,0&height=300&section=header&text=PREETHAM%20KUMAR&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚔️%20FULL-STACK%20OPERATIVE%20%20%7C%20%20AI%20ENGINEER%20%20%7C%20%20CHESS%20STRATEGIST%20%20%7C%20%20IoT%20ARCHITECT&descSize=14&descAlignY=58&descColor=ff9999&stroke=ff2a2a&strokeWidth=1" width="100%"/>
-
-</div>
-
-<!-- SPACER -->
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ANIMATED INTRO BAR
-     ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══ TYPING ANIMATION ═══ -->
+<a href="https://github.com/Preetham869">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FF2A2A&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%3E+Systems+Online+%E2%80%94+Operative+Deployed;%3E+Code+%E2%80%A2+Strategy+%E2%80%A2+Precision+%E2%80%A2+Execution" alt="Typing SVG" />
+</a>
 
-<div align="center">
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=FF2A2A&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%E2%96%88%E2%96%88+SYSTEMS+ONLINE+%E2%80%94+OPERATIVE+DEPLOYED+%E2%96%88%E2%96%88;%E2%96%88%E2%96%88+CODE+%C2%B7+STRATEGY+%C2%B7+EXECUTION+%C2%B7+DOMINANCE+%E2%96%88%E2%96%88" alt="Typing SVG" />
-
-<br><br>
-
-<!-- STATUS BADGES -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=Preetham869&color=dc143c&style=for-the-badge&label=PROFILE+RECON)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Preetham869?style=for-the-badge&color=1a1a2e&labelColor=0a0a0a&logo=github&logoColor=ff4444&label=ALLIES)](https://github.com/Preetham869?tab=followers)
-&nbsp;
-[![Repos](https://img.shields.io/badge/DEPLOYMENTS-122+-0a0a0a?style=for-the-badge&logo=github&logoColor=ffaa33&labelColor=0a0a0a)](https://github.com/Preetham869?tab=repositories)
-&nbsp;
-[![GCP](https://img.shields.io/badge/CLEARANCE-GCP_CDL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0a0a0a)](https://cloud.google.com)
+<!-- ═══ STATUS BADGES ═══ -->
+<img src="https://komarev.com/ghpvc/?username=Preetham869&color=dc143c&style=for-the-badge&label=RECON+HITS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Preetham869?style=for-the-badge&color=1a1a2e&labelColor=0a0a0a&logo=github&logoColor=ff4444&label=ALLIES" alt="Followers" />
+<img src="https://img.shields.io/badge/REPOS-122+-0a0a0a?style=for-the-badge&logo=github&logoColor=ffaa33&labelColor=0a0a0a" alt="Repos" />
+<img src="https://img.shields.io/badge/CLEARANCE-GCP_CDL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0a0a0a" alt="GCP" />
 
 </div>
 
 <br>
 
-<!-- ANIMATED SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                   SECTION 01 — THE DOSSIER                      ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════╗
+     ║           SECTION 01 — DOSSIER               ║
+     ╚══════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-
-<table><tr><td>
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; `SYS://01` — THE DOSSIER &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-
-</div>
-</td></tr></table>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=50&section=header&text=%20%20%E2%9A%94%EF%B8%8F%20SYS%3A%2F%2F01%20%E2%80%94%20THE%20DOSSIER%20%20&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
 
 <br>
 
-<div align="center">
-
-```
-                                                                                
-  ╔═══════════════════════════════════════════════════════════════════════════╗  
-  ║                                                                           ║  
-  ║    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   ║  
-  ║    █ ██▀▄▀██ ██ ▄▄▄██ ▄▄▄██▄ ▄██ ██ ██ ▄▄▀██ ▄▀▄ ██ █▀▄█ ██ ██ ▄▀▄ █   ║  
-  ║    █ ██ █▀██ ▀▀ ▄▄▄██ ▄▄▄███ ███ ██ ██ ▀▀ ██ █ █ ██ ▄▀██ ██ ██ █ █ █   ║  
-  ║    █▄▄█▄▄▄██▄█▄▄▄▄▄██▄▄▄▄▄██▄███▄▄▄▄██▄██▄██▄▄▄▄▄██▄█▄██▄▄▄▄██▄▄▄▄▄█   ║  
-  ║                                                                           ║  
-  ║          ⚔️  T H E   O P E R A T I V E  —  S Y S T E M S   O N L I N E   ║  
-  ║                                                                           ║  
-  ╚═══════════════════════════════════════════════════════════════════════════╝  
-                                                                                
-```
-
-</div>
-
-<br>
-
-<!-- DOSSIER SPLIT LAYOUT -->
 <table>
 <tr>
-
-<!-- LEFT: Profile Card -->
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🔴 CLASSIFIED PROFILE
-
-</div>
-
-<br>
+<td width="55%" valign="top">
 
 ```js
-// ═══════════════════════════════════════
-// OPERATIVE IDENTITY — CLASSIFIED
-// ═══════════════════════════════════════
-
 const operative = {
-    
     name:       "Preetham Kumar",
     callsign:   "PK://",
     class:      "Full-Stack Developer",
     spec:       "AI/ML Engineering",
-    status:     "🟢 ACTIVE — Open to Ops",
-    
-    combat_readiness: {
-        chess_rating:  "1300 — 1450",
-        chess_style:   "Tactical/Analytical",
-        training:      "1.5yr @ WhiteHat Jr",
-        clearance:     "Google Cloud CDL",
-        deployments:   "122+ repositories",
+    status:     "🟢 ACTIVE",
+
+    combat: {
+        chess:     "1300 — 1450 Rated",
+        training:  "1.5yr @ WhiteHat Jr",
+        clearance: "Google Cloud CDL",
+        repos:     "122+ deployed",
     },
-    
-    arsenal: {
-        primary:    ["Python", "JavaScript", "C"],
-        databases:  ["MySQL", "Oracle", "InfluxDB"],
-        frameworks: ["Streamlit", "GSAP", "Flask"],
-        hardware:   ["Arduino UNO R4 WiFi", "DHT22"],
-        cloud:      ["Google Cloud Platform"],
+
+    weapons: {
+        langs:  ["Python", "JavaScript", "C", "SQL"],
+        data:   ["MySQL", "Oracle", "InfluxDB"],
+        tools:  ["Streamlit", "GSAP", "Flask"],
+        hw:     ["Arduino R4 WiFi", "DHT22"],
     },
-    
-    quote: "Precision is not optional."
+
+    motto: "Precision is not optional."
 };
 ```
 
 </td>
-
-<!-- RIGHT: Stats + Quick Info -->
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <div align="center">
 
-### ⚡ THREAT ASSESSMENT
+<br>
+
+> *"Every project is a calculated operation.*
+> *Every line of code, a decisive move."*
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Preetham869&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a2a&icon_color=ff6b6b&text_color=c9d1d9&ring_color=ff2a2a&include_all_commits=true&count_private=true&custom_title=⚔️%20COMBAT%20METRICS" width="100%" />
+🔴 **Full-Stack Developer** — precision systems
+
+🔴 **AI/ML Specialist** — intelligent dashboards
+
+🔴 **Chess Strategist** — 1300-1450 rated
+
+🔴 **IoT Engineer** — Arduino & sensors
+
+🔴 **Google Cloud** — CDL Certified
+
+🔴 **Hackathon Veteran** — Aurelion & Google
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Preetham869&theme=radical&hide_border=true&background=0d1117&ring=ff2a2a&fire=ff6b6b&currStreakLabel=ff2a2a&sideLabels=ff6b6b&dates=555555&stroke=1a1a2e" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetham869&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a2a&text_color=c9d1d9&langs_count=5" width="85%" />
 
 </div>
 
@@ -154,356 +109,174 @@ const operative = {
 
 <br>
 
-<!-- QUOTE BANNER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════╗
+     ║           SECTION 02 — ARSENAL               ║
+     ╚══════════════════════════════════════════════╝ -->
+
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   💀  "Every project is a calculated operation. Every line of code,          │
-│        a decisive move on a board where only precision survives."            │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=50&section=header&text=%20%20%F0%9F%97%A1%EF%B8%8F%20SYS%3A%2F%2F02%20%E2%80%94%20THE%20ARSENAL%20%20&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
 
 <br>
 
-<!-- ANIMATED SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                   SECTION 02 — THE ARSENAL                      ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<table><tr><td>
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> &nbsp; `SYS://02` — THE ARSENAL &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-
-*Every weapon calibrated. Every system primed.*
-
-</div>
-</td></tr></table>
-
-</div>
+### ⚔️ Languages
 
 <br>
 
-<!-- ─── LANGUAGES ─── -->
-<div align="center">
-
-### ⚔️ `PRIMARY WEAPONS` — Languages
-
-<br>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=python,javascript,c,html,css&theme=dark&perline=5" alt="Languages" />
-</a>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" />
-<br><b>Python</b>
-<br><sub><img src="https://img.shields.io/badge/MASTERED-ff2a2a?style=flat-square&logoColor=white" /></sub>
-</td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
-<br><b>JavaScript</b>
-<br><sub><img src="https://img.shields.io/badge/MASTERED-ff2a2a?style=flat-square&logoColor=white" /></sub>
-</td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="70" height="70" />
-<br><b>C</b>
-<br><sub><img src="https://img.shields.io/badge/PROFICIENT-ff6b6b?style=flat-square&logoColor=white" /></sub>
-</td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="70" height="70" />
-<br><b>SQL</b>
-<br><sub><img src="https://img.shields.io/badge/MASTERED-ff2a2a?style=flat-square&logoColor=white" /></sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🛡️ `TACTICAL GEAR` — Frameworks & Libraries
-
-<br>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=flask,nodejs,react,threejs&theme=dark&perline=8" alt="Frameworks" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,javascript,c,html,css&theme=dark" />
 
 <br><br>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=0d0d0d)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs_AI-0A0A0A?style=for-the-badge&logoColor=white)
-![Canvas](https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🛡️ Frameworks & Libraries
 
 <br>
 
-### 🗄️ `INTELLIGENCE VAULTS` — Databases
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="160">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70" />
-<br><b>MySQL</b>
-<br><sub>6-Table Architecture</sub>
-<br><sub>Query Optimization</sub>
-</td>
-<td align="center" width="160">
-<br>
-<img src="https://skillicons.dev/icons?i=oracle&theme=dark" alt="Oracle" width="52" height="52" />
-<br><br><b>Oracle DB</b>
-<br><sub>Enterprise Systems</sub>
-<br><sub>PL/SQL</sub>
-</td>
-<td align="center" width="160">
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" alt="InfluxDB" width="52" height="52" />
-<br><br><b>InfluxDB</b>
-<br><sub>Time-Series Data</sub>
-<br><sub>IoT Metrics</sub>
-</td>
-<td align="center" width="160">
-<br>
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" width="52" height="52" />
-<br><br><b>SQLite</b>
-<br><sub>Embedded Systems</sub>
-<br><sub>Local Storage</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🤖 `FIELD HARDWARE` — IoT & Embedded Systems
-
-<br>
-
-![Arduino](https://img.shields.io/badge/Arduino_UNO_R4_WiFi-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![DHT22](https://img.shields.io/badge/DHT22_Temp/Humidity-FF6B00?style=for-the-badge&logoColor=white)
-![LED](https://img.shields.io/badge/Common_Cathode_LED-FFD700?style=for-the-badge&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT_Networks-00C7B7?style=for-the-badge&logo=iota&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensor_Arrays-8B4513?style=for-the-badge&logoColor=white)
-![WiFi](https://img.shields.io/badge/WiFi_Modules-1a73e8?style=for-the-badge&logo=wifi&logoColor=white)
-
-<br>
-
-### 🔧 `OPS CENTER` — Tools & Deployment
-
-<br>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=git,github,gcp,linux,vscode,bash,vim,docker&theme=dark&perline=8" alt="Tools" />
-</a>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs_AI-0A0A0A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 <br><br>
 
-<!-- LANGUAGES PIE CHART -->
+### 🗄️ Databases
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetham869&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a2a&text_color=c9d1d9&langs_count=8&custom_title=⚡%20ARSENAL%20DISTRIBUTION" width="42%" />
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<br><br>
+
+### 🤖 Hardware & IoT
+
+<br>
+
+<img src="https://img.shields.io/badge/Arduino_UNO_R4_WiFi-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/DHT22_Sensor-FF6B00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT_Networks-00C7B7?style=for-the-badge&logo=iota&logoColor=white" />
+<img src="https://img.shields.io/badge/LED_Systems-FFD700?style=for-the-badge&logoColor=black" />
+
+<br><br>
+
+### 🔧 Tools & Cloud
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,gcp,linux,vscode,bash&theme=dark" />
 
 </div>
 
 <br>
 
-<!-- ANIMATED SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                  SECTION 03 — MISSION LOG                       ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════╗
+     ║           SECTION 03 — MISSIONS               ║
+     ╚══════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-<table><tr><td>
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp; `SYS://03` — MISSION LOG &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">
-
-*Field operations — deployed, tested, battle-hardened.*
-
-</div>
-</td></tr></table>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=50&section=header&text=%20%20%F0%9F%8E%AF%20SYS%3A%2F%2F03%20%E2%80%94%20MISSION%20LOG%20%20&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
 
 <br>
-
-<!-- ─── PROJECT CARDS ─── -->
 
 <!-- PROJECT 1 -->
 <table>
 <tr>
-<td width="120" align="center">
-<br>
-
-### 🌾
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00ff55?style=flat-square" />
-
-<br><br>
+<td align="center" width="80">
+<h1>🌾</h1>
 </td>
 <td>
 
-### 🌾 AGROCAST — *AI Agricultural Intelligence Platform*
+**🌾 AGROCAST** — *AI Agricultural Intelligence*
+> `AI / HACKATHON` · Built for the **Aurelion Hackathon**
 
-> **`CLASSIFICATION: AI / HACKATHON`** &nbsp; | &nbsp; **`THREAT LEVEL: HIGH-IMPACT`**
+AI-enabled market intelligence and climate-aware dashboard. **Multilingual TTS** via ElevenLabs — Tamil, Telugu, Hindi. Real-time market price analysis with AI-powered crop recommendation engine.
 
-AI-enabled **market intelligence** and **climate-aware dashboard** for agricultural planning and decision-making. Multilingual TTS via ElevenLabs supporting **Tamil, Telugu, Hindi** for accessibility. Built under pressure at the **Aurelion Hackathon**.
-
-```
-SYSTEMS                                              STATUS
-├── 🌍 Climate-aware crop recommendation engine ──── ██████████ ONLINE
-├── 📊 Real-time market price analysis ──────────── ██████████ ONLINE
-├── 🗣️ Multilingual TTS (3 languages) ──────────── ██████████ ONLINE
-├── 📈 Interactive data visualization ───────────── ██████████ ONLINE
-└── 🤖 AI forecasting algorithms ───────────────── ██████████ ONLINE
-```
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0A0A0A?style=flat-square&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![AI](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/ElevenLabs-0A0A0A?style=flat-square" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square" />
 
 </td>
 </tr>
 </table>
-
-<br>
 
 <!-- PROJECT 2 -->
 <table>
 <tr>
-<td width="120" align="center">
-<br>
-
-### 🧭
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00ff55?style=flat-square" />
-
-<br><br>
+<td align="center" width="80">
+<h1>🧭</h1>
 </td>
 <td>
 
-### 🧭 AI CAREER GUIDANCE — *Intelligent Pathfinding Engine*
+**🧭 AI CAREER GUIDANCE** — *Intelligent Pathfinding Engine*
+> `AI APPLICATION` · Smart decision support system
 
-> **`CLASSIFICATION: AI APPLICATION`** &nbsp; | &nbsp; **`THREAT LEVEL: STRATEGIC`**
+Professional pathfinding portal using high-level data logic. Analyzes skills, interests, and market demand to recommend **optimal career trajectories** with personalized roadmaps.
 
-Smart portal for **professional pathfinding** using high-level data logic. Analyzes user skills, interests, and market trends to recommend **optimal career trajectories** with personalized development roadmaps.
-
-```
-SYSTEMS                                              STATUS
-├── 🎯 Skills & interest analysis engine ────────── ██████████ ONLINE
-├── 📊 Data-driven career recommendations ───────── ██████████ ONLINE
-├── 🔄 Dynamic pathway visualization ───────────── ██████████ ONLINE
-├── 📋 Personalized development roadmaps ────────── ██████████ ONLINE
-└── 🤖 AI trajectory prediction ────────────────── ██████████ ONLINE
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Data Logic](https://img.shields.io/badge/Data_Logic-4B0082?style=flat-square&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Logic-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square" />
 
 </td>
 </tr>
 </table>
-
-<br>
 
 <!-- PROJECT 3 -->
 <table>
 <tr>
-<td width="120" align="center">
-<br>
-
-### 📚
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00ff55?style=flat-square" />
-
-<br><br>
+<td align="center" width="80">
+<h1>📚</h1>
 </td>
 <td>
 
-### 📚 LIBRARYPRO — *Enterprise Database Architecture*
+**📚 LIBRARYPRO** — *Enterprise Database Architecture*
+> `FULL-STACK` · 6-table relational system
 
-> **`CLASSIFICATION: FULL-STACK SYSTEM`** &nbsp; | &nbsp; **`THREAT LEVEL: INFRASTRUCTURE`**
-
-Complex **Library Management System** with enterprise-grade **6-table MySQL architecture**. Full CRUD operations, advanced search, automated reporting pipelines, and robust relational data integrity.
+Complex Library Management System with enterprise-grade **6-table MySQL architecture**. Full CRUD operations, advanced search & filtering, automated reporting, and robust data integrity constraints.
 
 ```
-ARCHITECTURE                                         TABLES
-├── 📖 books           → Core catalog ───────────── TABLE 1/6
-├── 👤 members         → User profiles ──────────── TABLE 2/6
-├── 🔄 transactions    → Borrow/return log ──────── TABLE 3/6
-├── 📂 categories      → Genre classification ───── TABLE 4/6
-├── 💰 fines           → Penalty tracking ───────── TABLE 5/6
-└── 👨‍💼 staff           → Admin management ──────── TABLE 6/6
+Schema: books → members → transactions → categories → fines → staff
 ```
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logoColor=white) ![RDBMS](https://img.shields.io/badge/RDBMS-003545?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" /> <img src="https://img.shields.io/badge/RDBMS-003545?style=flat-square" />
 
 </td>
 </tr>
 </table>
-
-<br>
 
 <!-- PROJECT 4 -->
 <table>
 <tr>
-<td width="120" align="center">
-<br>
-
-### 🔧
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00ff55?style=flat-square" />
-
-<br><br>
+<td align="center" width="80">
+<h1>🔧</h1>
 </td>
 <td>
 
-### 🔧 COA EMULATOR — *Interactive Architecture Visualizer*
+**🔧 COA EMULATOR** — *Interactive Architecture Visualizer*
+> `INTERACTIVE` · Hardware concept visualization
 
-> **`CLASSIFICATION: INTERACTIVE SYSTEM`** &nbsp; | &nbsp; **`THREAT LEVEL: EDUCATIONAL`**
+Computer Organization & Architecture tool for **DMA** and **Interrupt handling**. Real-time GSAP-powered animations with interactive controls, status monitoring, and educational overlays.
 
-Computer Organization & Architecture **visualization tool** for **DMA** and **Interrupt handling** concepts. Real-time GSAP-powered animations with interactive controls for understanding hardware operations.
-
-```
-MODULES                                              STATUS
-├── 🔄 DMA Data Transfer Animation ─────────────── ██████████ ONLINE
-├── ⚡ Interrupt Handling Visualization ──────────── ██████████ ONLINE
-├── 🎮 Interactive Control Panel ────────────────── ██████████ ONLINE
-├── 📊 Real-Time Status Monitoring ──────────────── ██████████ ONLINE
-├── 🎬 GSAP Cinematic Animations ───────────────── ██████████ ONLINE
-└── 📝 Educational Description System ──────────── ██████████ ONLINE
-```
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas](https://img.shields.io/badge/Canvas-FF6347?style=flat-square&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Canvas-FF6347?style=flat-square" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
 
 </td>
 </tr>
@@ -511,240 +284,97 @@ MODULES                                              STATUS
 
 <br>
 
-<!-- ANIMATED SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                  SECTION 04 — COMBAT STATISTICS                 ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════╗
+     ║           SECTION 04 — STATS                  ║
+     ╚══════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-<table><tr><td>
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> &nbsp; `SYS://04` — COMBAT STATISTICS &nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32">
-
-*Real-time battlefield telemetry — live from the server farm.*
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=50&section=header&text=%20%20%F0%9F%93%8A%20SYS%3A%2F%2F04%20%E2%80%94%20COMBAT%20STATISTICS%20%20&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
-</td></tr></table>
 
 <br>
 
-<!-- ROW 1: Main Stats -->
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Preetham869&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a2a&icon_color=ff6b6b&text_color=c9d1d9&ring_color=ff2a2a&include_all_commits=true&count_private=true&custom_title=⚔️%20OPERATIONAL%20OVERVIEW" width="49%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Preetham869&theme=radical&hide_border=true&background=0d1117&ring=ff2a2a&fire=ff6b6b&currStreakLabel=ff2a2a&sideLabels=ff6b6b&dates=555555&stroke=1a1a2e" width="49%" />
-
-<br><br>
-
-<!-- ROW 2: Languages + Productive Time -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetham869&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a2a&text_color=c9d1d9&langs_count=10&custom_title=⚡%20WEAPON%20USAGE%20DISTRIBUTION" width="49%" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Preetham869&theme=radical&utcOffset=5.5" width="49%" />
+<!-- Stats Row 1 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Preetham869&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a2a&icon_color=ff6b6b&text_color=c9d1d9&ring_color=ff2a2a&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Preetham869&theme=radical&hide_border=true&background=0d1117&ring=ff2a2a&fire=ff6b6b&currStreakLabel=ff2a2a&sideLabels=ff6b6b&dates=555555" width="49%" />
 
 <br><br>
 
-<!-- ACTIVITY GRAPH — FULL WIDTH -->
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Preetham869&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff2a2a&point=ffffff&area=true&area_color=ff2a2a" width="98%" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Preetham869&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff2a2a&point=ffffff&area=true&area_color=ff2a2a&custom_title=📊%20OPERATION%20ACTIVITY%20FEED)](https://github.com/Preetham869)
+<br><br>
 
-<br>
-
-<!-- PROFILE SUMMARY CARDS — TRIPLE -->
-
+<!-- Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preetham869&theme=radical" width="98%"/>
 
 <br><br>
 
+<!-- Triple Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Preetham869&theme=radical" width="32%" />
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Preetham869&theme=radical" width="32%" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Preetham869&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Preetham869&theme=radical&utcOffset=5.5" width="32%" />
 
 <br><br>
 
-<!-- TROPHY CASE -->
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Preetham869&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
 
-### 🏆 `TROPHY VAULT`
+<br><br>
 
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Preetham869&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-<!-- CONTRIBUTION SNAKE -->
-
-### 🐍 `CONTRIBUTION WARFARE`
-
-<br>
-
+<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Preetham869/Preetham869/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Preetham869/Preetham869/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Preetham869/Preetham869/output/github-snake-dark.svg" width="100%" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/Preetham869/Preetham869/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 <br>
 
-<!-- ANIMATED SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                  SECTION 05 — CLEARANCE LEVEL                   ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════╗
+     ║           SECTION 05 — CERTS                  ║
+     ╚══════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-<table><tr><td>
-<div align="center">
-
-## 🎖️ &nbsp; `SYS://05` — CLEARANCE & CERTIFICATIONS &nbsp; 🎖️
-
-</div>
-</td></tr></table>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=50&section=header&text=%20%20%F0%9F%8E%96%EF%B8%8F%20SYS%3A%2F%2F05%20%E2%80%94%20CLEARANCE%20LEVEL%20%20&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
 
 <br>
 
-<table>
-<tr>
-
-<!-- CERT 1 -->
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/LEVEL_5-VERIFIED-4285F4?style=for-the-badge" />
-
-<br><br>
-
-☁️
-### Google Cloud
-### Digital Leader
-
-<br>
-
-```
-  ┌─────────────────┐
-  │ STATUS: ✅ CERT │
-  │ ISSUER: Google  │
-  │ SCOPE:  Cloud   │
-  │         Infra   │
-  │         DevOps  │
-  └─────────────────┘
-```
-
-</td>
-
-<!-- CERT 2 -->
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/LEVEL_4-COMPLETED-FF4444?style=for-the-badge" />
-
-<br><br>
-
-🏆
-### Google
-### Hackathon
-
-<br>
-
-```
-  ┌─────────────────┐
-  │ STATUS: ✅ DONE │
-  │ ISSUER: Google  │
-  │ SCOPE:  AI/ML   │
-  │         Collab  │
-  │         Speed   │
-  └─────────────────┘
-```
-
-</td>
-
-<!-- CERT 3 -->
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/LEVEL_∞-ACTIVE-00FF55?style=for-the-badge" />
-
-<br><br>
-
-♟️
-### Chess
-### 1300-1450
-
-<br>
-
-```
-  ┌─────────────────┐
-  │ STATUS: 🔥 LIVE │
-  │ TYPE:   Rated   │
-  │ STYLE:  Tactic  │
-  │         Analyt  │
-  │         Attack  │
-  └─────────────────┘
-```
-
-</td>
-
-<!-- CERT 4 -->
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/LEVEL_3-GRADUATED-FFAA33?style=for-the-badge" />
-
-<br><br>
-
-🎓
-### WhiteHat Jr
-### 1.5 Years
-
-<br>
-
-```
-  ┌─────────────────┐
-  │ STATUS: ✅ DONE │
-  │ PERIOD: 1.5 yr  │
-  │ FOCUS:  Logic   │
-  │         Code    │
-  │         Creative│
-  └─────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ANIMATED SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                  SECTION 06 — CURRENT OPS                       ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<table><tr><td>
-<div align="center">
-
-## 🔭 &nbsp; `SYS://06` — ACTIVE OPERATIONS &nbsp; 🔭
+| | Certification | Issuer | Status |
+|:---:|:---|:---:|:---:|
+| ☁️ | **Google Cloud Digital Leader** | Google Cloud | ![Verified](https://img.shields.io/badge/✅_VERIFIED-4285F4?style=flat-square) |
+| 🏆 | **Google Hackathon Participant** | Google | ![Completed](https://img.shields.io/badge/✅_COMPLETED-FF4444?style=flat-square) |
+| ♟️ | **Chess Rating 1300-1450** | Online Platforms | ![Active](https://img.shields.io/badge/🔥_ACTIVE-00FF55?style=flat-square) |
+| 🎓 | **WhiteHat Jr Advanced (1.5yr)** | WhiteHat Jr | ![Graduated](https://img.shields.io/badge/✅_GRADUATED-FFAA33?style=flat-square) |
 
 </div>
-</td></tr></table>
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ╔══════════════════════════════════════════════╗
+     ║         SECTION 06 — CURRENT OPS              ║
+     ╚══════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=50&section=header&text=%20%20%F0%9F%94%AD%20SYS%3A%2F%2F06%20%E2%80%94%20ACTIVE%20OPERATIONS%20%20&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
 
 <br>
@@ -755,52 +385,22 @@ MODULES                                              STATUS
 
 ### 🔴 Active Missions
 
-```
- ┌────────────────────────────────────┐
- │                                    │
- │  🔴 AI Dashboards (Streamlit)     │
- │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 95%       │
- │                                    │
- │  🔴 IoT Sensor Networks           │
- │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%       │
- │                                    │
- │  🔴 Full-Stack DB Systems         │
- │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 90%       │
- │                                    │
- │  🔴 Interactive Web (GSAP)        │
- │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 85%       │
- │                                    │
- │  🔴 Chess Tournaments             │
- │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 70%       │
- │                                    │
- └────────────────────────────────────┘
-```
+- 🔸 Building **AI dashboards** with Streamlit & Python
+- 🔸 Developing **IoT sensor networks** with Arduino R4 WiFi
+- 🔸 Mastering **database architecture** — MySQL & Oracle
+- 🔸 Creating **interactive experiences** with GSAP & Canvas
+- 🔸 Competing in **chess tournaments**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🟡 Training Queue
 
-```
- ┌────────────────────────────────────┐
- │                                    │
- │  🟡 Advanced ML Architectures     │
- │  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 60%       │
- │                                    │
- │  🟡 Cloud-Native on GCP           │
- │  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 50%       │
- │                                    │
- │  🟡 Real-Time Streaming           │
- │  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 40%       │
- │                                    │
- │  🟡 Three.js / WebGL              │
- │  ▓▓▓▓▓▓░░░░░░░░░░░░░░ 30%       │
- │                                    │
- │  🟡 Competitive Programming       │
- │  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 65%       │
- │                                    │
- └────────────────────────────────────┘
-```
+- 🔹 Advanced **Machine Learning** architectures
+- 🔹 Cloud deployment on **Google Cloud Platform**
+- 🔹 Real-time streaming with **InfluxDB**
+- 🔹 **Three.js** and WebGL for 3D experiences
+- 🔹 **Competitive programming** & algorithms
 
 </td>
 </tr>
@@ -808,75 +408,51 @@ MODULES                                              STATUS
 
 <br>
 
-<!-- ANIMATED SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                  SECTION 07 — SECURE CHANNEL                    ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════╗
+     ║         SECTION 07 — CONNECT                  ║
+     ╚══════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-<table><tr><td>
-<div align="center">
-
-## 📡 &nbsp; `SYS://07` — ESTABLISH SECURE CHANNEL &nbsp; 📡
-
-*Comms open. Deploy a message.*
-
-</div>
-</td></tr></table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=50&section=header&text=%20%20%F0%9F%93%A1%20SYS%3A%2F%2F07%20%E2%80%94%20SECURE%20CHANNEL%20%20&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br><br>
 
-<!-- BIG CONNECT BUTTONS -->
+*Open to collaborations, hackathon teams, freelance work, or a chat about tech & chess.*
+
+<br><br>
 
 <a href="https://github.com/Preetham869">
-<img src="https://img.shields.io/badge/GITHUB-Preetham869-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" height="40" />
+<img src="https://img.shields.io/badge/GITHUB-Preetham869-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://linkedin.com/in/preetham">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="40" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:preetham@example.com">
-<img src="https://img.shields.io/badge/EMAIL-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="40" />
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
 </a>
 
-<br><br><br>
+<br><br>
 
 ---
 
 <br>
 
-<!-- ════════════════════════════════
-     FINAL QUOTE BLOCK
-     ════════════════════════════════ -->
-
 ```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                  ║
-║       ⚔️   " C O D E   I S   M Y   W E A P O N .                              ║
-║             S T R A T E G Y   I S   M Y   A D V A N T A G E .                  ║
-║             P R E C I S I O N   I S   M Y   N A T U R E .                      ║
-║             E X E C U T I O N   I S   I N E V I T A B L E . "                  ║
-║                                                                                  ║
-║                                                 — Preetham Kumar                 ║
-║                                                   ⚔️ THE OPERATIVE              ║
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+  ⚔️ "Code is my weapon. Strategy is my advantage. Execution is inevitable." — PK://
 ```
 
 <br>
 
-<!-- SPOTIFY / MUSIC BAR -->
+<!-- MUSIC BAR -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
-<br>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,2,0&height=180&section=footer&text=&fontSize=0" width="100%"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:ff2a2a,100:ff6b35&height=150&section=footer" width="100%"/>
 
 </div>
